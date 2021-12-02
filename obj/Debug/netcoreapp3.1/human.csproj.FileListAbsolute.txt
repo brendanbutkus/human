@@ -1,0 +1,12 @@
+/Users/brendanbutkus/Desktop/CSharp/human/bin/Debug/netcoreapp3.1/human.deps.json
+/Users/brendanbutkus/Desktop/CSharp/human/bin/Debug/netcoreapp3.1/human.runtimeconfig.json
+/Users/brendanbutkus/Desktop/CSharp/human/bin/Debug/netcoreapp3.1/human.runtimeconfig.dev.json
+/Users/brendanbutkus/Desktop/CSharp/human/bin/Debug/netcoreapp3.1/human.dll
+/Users/brendanbutkus/Desktop/CSharp/human/bin/Debug/netcoreapp3.1/human.pdb
+/Users/brendanbutkus/Desktop/CSharp/human/obj/Debug/netcoreapp3.1/human.csprojAssemblyReference.cache
+/Users/brendanbutkus/Desktop/CSharp/human/obj/Debug/netcoreapp3.1/human.AssemblyInfoInputs.cache
+/Users/brendanbutkus/Desktop/CSharp/human/obj/Debug/netcoreapp3.1/human.AssemblyInfo.cs
+/Users/brendanbutkus/Desktop/CSharp/human/obj/Debug/netcoreapp3.1/human.csproj.CoreCompileInputs.cache
+/Users/brendanbutkus/Desktop/CSharp/human/obj/Debug/netcoreapp3.1/human.dll
+/Users/brendanbutkus/Desktop/CSharp/human/obj/Debug/netcoreapp3.1/human.pdb
+/Users/brendanbutkus/Desktop/CSharp/human/obj/Debug/netcoreapp3.1/human.genruntimeconfig.cache
